@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(symmod.HelloWorld + "(version: " + symmod.Version + ")")
+	fmt.Println(symmod.HelloWorld + " (version: " + symmod.Version + ")")
 }
