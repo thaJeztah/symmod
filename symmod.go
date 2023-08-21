@@ -22,4 +22,4 @@ package symmod
 const HelloWorld = "hello world"
 
 // Version the module version.
-const Version = "1.0.0"
+const Version = "1.0.1"
